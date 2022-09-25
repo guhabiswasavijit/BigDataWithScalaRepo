@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+ScalaDruid/ScalaDruid.iml
+ScalaDruid/project/
+ScalaDruid/target/
+ScalaHadoop/project/
+ScalaHadoop/target/
+ScalaStorm/project/
+ScalaStorm/project/target/
